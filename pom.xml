@@ -16,4 +16,12 @@
     <description>
         Bubbles App Data Governance - Bubbles 应用集 - 数据治理
     </description>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+            <version>4.0.6</version>
+        </dependency>
+    </dependencies>
 </project>
